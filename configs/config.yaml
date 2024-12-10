@@ -1,0 +1,8 @@
+port: "5000"
+
+db:
+  username: "worker"
+  host:     "localhost"
+  port:     "5435"
+  dbname:   "coingecko"
+  sslmode:  "disable"
